@@ -1,0 +1,29 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.iconTheme": "material-icon-theme",
+  "cSpell.language": "en,es",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.minimap.enabled": false,
+
+"indentRainbow.indicatorStyle": "light",
+
+"indentRainbow.lightIndicatorStyleLineWidth": 1,
+
+"indentRainbow.colors": [
+  "rgba(255,255,64,0.3)",
+  "rgba(127,255,127,0.3)",
+  "rgba(255,127,255,0.3)",
+  "rgba(79,236,236,0.3)"
+],
+"security.workspace.trust.untrustedFiles": "open",
+"cSpell.userWords": [
+  "Amerike"
+],
+"workbench.startupEditor": "none",
+"window.restoreWindows": "none",
+"files.autoSave": "onFocusChange",
+"editor.wordWrap": "on",
+"editor.renderWhitespace": "all",
+"editor.tabSize": 2
+  
+}

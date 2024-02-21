@@ -1,0 +1,35 @@
+ctrl + ñ = terminal
+Comandos de terminal:
+
+"pwd" (print working directory) - Imprime el directorio de trabajo.
+"touch" - Te permite crear archivos.
+"mkdir" - Sirve para crear carpetas.
+
+"ls" (list) - Muestra el conjunto de archivos y carpetas abiertos del directorio actual. 
+  "ls -l" - Los datos de los archivos y carpetas pero más detallados.
+  "ls -a" - Lista todos los archivos y carpetas incluyendo los ocultos.
+                       (se pueden convinar "ls -la")                              
+
+"clear" - Limpia la pantalla de la terminal.
+
+"cd" (Change Directory) - Me permite cambiar de directorio.
+  "cd .." - Sube un nivel a la carpeta superior, si tienes que subir 3 niveles sería "cd ../../.."
+  "cd /" - La diagonal indica la raíz de tu disco duro.
+  "cd ~" - La tilde indica el directorio Home del usuario actual.
+
+"rm" - sirve para eliminar archivos (no carpetas).
+  "rmdir" - Sirve para eliminar carpetas vacias.
+  "rm -r" - Nos permite eliminar carpetas y su contenido.
+
+
+Para salirse de la configuración que te muestra con "git --list" darle Q
+
+vim "nombre de archivo" para ver el archivo desde la terminal
+
+git (nombre del repositorio) -h = para ver los comandos del mismo.
+
+git init = para abrir un repositorio de git
+
+modo Staged
+  git add "" para solo staged ese archivo
+  git add . para mandar todos
