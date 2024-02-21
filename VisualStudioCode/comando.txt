@@ -33,3 +33,11 @@ git init = para abrir un repositorio de git
 modo Staged
   git add "" para solo staged ese archivo
   git add . para mandar todos
+
+modo Commit
+  git commit = sale la configuracion manual.
+  git commit -m "(Nombre del commit)" = Commiteas todo con esa descripción.
+
+modo push
+  git remote add origin (URL del repositorio remoto)
+  git push -u origin main
